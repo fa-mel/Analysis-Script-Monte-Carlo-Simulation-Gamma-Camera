@@ -1,0 +1,24 @@
+./EGSnrc_Media_Data/
+geom.hsb 
+     16749
+        00       201       301          0.1405E+00
+         1     20000
+        40     .0050     .0050  .0010000  .0144200    1
+         8     .0050     1.029    1    1    0    1    0    0    1    1
+     0.000     0.000    0    0          3.e00    0       5.0    1    0
+AIR-900KEV-05KEV-05KEV       AIR-900KEV-05KEV-05KEV  
+BRE-900KEV-05KEV-05KEV       BRE-900KEV-05KEV-05KEV  
+H2O-900KEV-05KEV-05KEV       H2O-900KEV-05KEV-05KEV  
+LEAD-900KEV-05KEV-05KEV      LEAD-900KEV-05KEV-05KEV  
+NAITL-900KEV-05KEV-05KEV     NAITL-900KEV-05KEV-05KEV  
+YAP-900KEV-05KEV-05KEV       YAP-900KEV-05KEV-05KEV 
+CSITL-900KEV-05KEV-05KEV     CSITL-900KEV-05KEV-05KEV
+ALUM-900KEV-05KEV-05KEV      ALUM-900KEV-05KEV-05KEV
+         2
+         0   -40.000     0.000   -10.000    10.000   -10.000    10.000     0.000   1010001         1 //vacuum
+         5     1.500     1.700    -5.000     5.000    -5.000     5.000     0.000   5010001         1 //detector (bounds) 
+ 2     1.500     1.700    -5.000     5.000    -5.000     5.000    10.000    10.000    10.000    10.000 5 5 //detector (module)
+ 1      .000     1.500    -5.000     5.000    -5.000     5.000      .030      .000      .075      .000 4 1 //collimator(module)
+         1
+        11 10000000     0.000     0.000   -15.000     0.000     0.000     0.000     .1400      180.      360.  // source.
+
